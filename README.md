@@ -17,4 +17,5 @@ Having a growth mindset is all about have a passion for learning and believing i
 >It always seems impossible until it's done.
 
 Link to my github portfolio: https://github.com/mkancov 
+
 Link to page 2: [page2](https://mkancov.github.io/reading-notes/class1)
