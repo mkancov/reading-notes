@@ -2,17 +2,17 @@
 
 _My name is Michael and I love javascript_
 
-*Talk about growth mindset*
+**Talk about growth mindset**
 
 Having a growth mindset is all about have a passion for learning and believing in yourself when you start some new. Anything worth doing will be hard when you first start so you might as well accept that you will fail often and be able to learn from it.
 
-3 reminders about growth mindset
+**3 reminders about growth mindset**
 
-*You may not know now but you will know later
+1.You may not know now but you will know later
 
-*Ask for help
+2.Ask for help
 
-*Believe in yourself
+3.Believe in yourself
 
 >It always seems impossible until it's done.
 
