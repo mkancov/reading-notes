@@ -10,5 +10,5 @@ Having a growth mindset is all about have a passion for learning and believing i
 *You may not know now but you will know later
 *Ask for help
 *Believe in yourself
-
+>It always seems impossible until it's done.
 Link to my github portfolio: https://github.com/mkancov
