@@ -1,4 +1,4 @@
- # This is my reading notes repo
+ 
 
 _My name is Michael and I love javascript_
 
