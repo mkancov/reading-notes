@@ -18,8 +18,12 @@ h1 {Color: blue;  Font Size:10em;}
 
 **Three ways to insert css**
 
-- External CSS
+- External CSS  can change the entire look of a website by changing one file
 
-- Internall CSS
+- Internal CSS is used if one HTML page has a unique style
 
-- Inline CSS
+- Inline CSS is used to apply a unique style for a single element
+
+**Color**
+
+You can change the color of text or any background, header, footer, etc with css.
