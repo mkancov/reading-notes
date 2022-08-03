@@ -1,23 +1,42 @@
- 
+ # Learning Markdown
 
-_My name is Michael and I love javascript_
+**Headings**
 
-**Talk about growth mindset**
+If you put 1 hashtag you will get the largest heading size and you can go all the way to 6. The more hashtags you put, the smaller the header becomes.
 
-Having a growth mindset is all about have a passion for learning and believing in yourself when you start some new. Anything worth doing will be hard when you first start so you might as well accept that you will fail often and be able to learn from it.
+**Paragraphs** 
 
-**3 reminders about growth mindset**
+Blank lines in between sentences allows you to write in paragraphs.
 
-1.You may not know now but you will know later
+**Line Breaks**
 
-2.Ask for help
+Ending your line with 2 spaces and pressing return will give you a line break.
 
-3.Believe in yourself
+#### Emphasis
 
->It always seems impossible until it's done.
+**Bold Text**   
+*Italics*   
+***Bold and Italic***
 
-Link to my github portfolio: https://github.com/mkancov 
+### Lists
 
-Link to page 2: [page2](https://mkancov.github.io/reading-notes/class1)
+1. This
+2. is
+3. an
+4. ordered
+5. list 
 
-Link to page 3: [page3](https://mkancov.github.io/reading-notes/GitNotes)
+- This
+
+- Is
+
+- an 
+
+- unordered
+
+- list
+
+
+
+
+
