@@ -1,4 +1,4 @@
-#Git
+# Git
 
 **What is Git?**
 
@@ -18,7 +18,7 @@ Detects file corruption or loss of info.
 
 Files in Git can be either committed, modified, or staged.
 
--Committed means data is stored securely in a local database
+- Committed means data is stored securely in a local database
 
 - Modified is when the file has been changed but not committed
 
@@ -26,16 +26,16 @@ Files in Git can be either committed, modified, or staged.
 
 **Git commands**
 
--cd means change directory
+- cd means change directory
 
--Git add 
+- Git add 
 
--Git clone
+- Git clone
 
--Git status
+- Git status
 
 - Git push origin main
 
--mv means move
+- mv means move
 
--Git commmit -m""
+- Git commmit -m""
