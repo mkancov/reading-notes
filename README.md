@@ -20,4 +20,4 @@ Link to my github portfolio: https://github.com/mkancov
 
 Link to page 2: [page2](https://mkancov.github.io/reading-notes/class1)
 
-Link to page 2: [page2](https://mkancov.github.io/reading-notes/GitNotes)
+Link to page 3: [page3](https://mkancov.github.io/reading-notes/GitNotes)
