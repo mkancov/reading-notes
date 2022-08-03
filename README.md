@@ -1,40 +1,15 @@
- # Learning Markdown
+ # Home Page
 
-**Headings**
+ **Intro**
 
-If you put 1 hashtag you will get the largest heading size and you can go all the way to 6. The more hashtags you put, the smaller the header becomes.
+ My name is Michael Kancov and I am from Ft. Lauderdale, FL but currently living in Oakland, CA. I am brand new to Coding, but I hope to land a junior developer job in 2023.
 
-**Paragraphs** 
+ ## Table of Contents
 
-Blank lines in between sentences allows you to write in paragraphs.
+ [Page2](https://mkancov.github.io/reading-notes/class1)
 
-**Line Breaks**
 
-Ending your line with 2 spaces and pressing return will give you a line break.
 
-#### Emphasis
-
-**Bold Text**   
-*Italics*   
-***Bold and Italic***
-
-### Lists
-
-1. This
-2. is
-3. an
-4. ordered
-5. list 
-
-- This
-
-- Is
-
-- an 
-
-- unordered
-
-- list
 
 
 
