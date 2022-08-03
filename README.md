@@ -6,7 +6,11 @@
 
  ## Table of Contents
 
+ [Page1](https://mkancov.github.io/reading-notes/)
+ 
  [Page2](https://mkancov.github.io/reading-notes/class1)
+
+ [Page3](https://mkancov.github.io/reading-notes/GitNotes)
 
 
 
