@@ -1,8 +1,14 @@
 # Reading
 
-**This is an important topic because**
+**This is an important topic because we are moving on to a new lesson tomorrow and that marks the beginning of a new week and most likely a new project that we will have to use this info for.
 
 ## Things I want to know more about
+
+- how to use the DOM
+
+- Want to learn more about Object Literals and how to apply them to my code.
+
+- Better understand how they are different from arrays.
 
 **JavaScript Object Basics**
 
