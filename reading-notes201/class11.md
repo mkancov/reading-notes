@@ -1,6 +1,6 @@
 # Reading
 
-*This topic is important because*
+*This topic is important because we are bein introduced to new topics that are supposed to make things easier for us and webpagrs better*
 
 ## Things I want to know more about
 
